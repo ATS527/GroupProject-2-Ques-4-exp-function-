@@ -23,5 +23,6 @@ int main()
     cin >> choice; 
   }while(choice == 'y' || choice == 'Y');
   cout << "\nThank You!" << endl;
+	cout << endl;
 	return 0;
 }
