@@ -5,7 +5,7 @@ int main()
 {
 	double x;
   	double exponent;  //answer from equation
-	double fact {1};	//factorial
+	double fact = 1;	//factorial
 	char choice;
 	do
 	{
